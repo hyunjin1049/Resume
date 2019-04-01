@@ -190,3 +190,11 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+/* Custom */
+
+.resize_fit_center {
+    max-width:50%;
+    height:auto;
+    text-align:center;
+}
