@@ -196,5 +196,5 @@ a:hover, a:focus, a:active {
 .resize_fit_center {
     max-width:50%;
     height:auto;
-    text-align:center;
+    object-fit: cover;
 }
