@@ -4327,9 +4327,3 @@ readers do not read off random characters that represent icons */
 .fas {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900; }
-
-
-
-.fa-matlab:before {
-  content: "\e900";
-}
