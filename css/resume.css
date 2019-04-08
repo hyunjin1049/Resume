@@ -152,7 +152,7 @@ p.lead {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 75rem;
+  max-width: 80rem;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -207,4 +207,8 @@ a:hover, a:focus, a:active {
     top:10%;
     left:80%;
     z-index:10;
+}
+
+section.resume-pic {
+  min-width: 75px;
 }
