@@ -208,7 +208,3 @@ a:hover, a:focus, a:active {
     left:80%;
     z-index:10;
 }
-
-section.resume-pic {
-  min-width: 75px;
-}
