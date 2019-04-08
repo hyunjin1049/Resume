@@ -201,10 +201,45 @@ a:hover, a:focus, a:active {
     margin-right: auto;
 }
 
-
 .lang_pos{
     position: absolute;
     top:10%;
     left:80%;
     z-index:10;
 }
+
+#about .btn.btn-learn {
+  color: #ffffff;
+  border: 1px #000;
+  background: #495057 /*transparent*/ !important; }
+
+.panel {
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    -ms-box-shadow: none !important;
+    -o-box-shadow: none !important;
+    box-shadow: none !important;
+    border: none; }
+
+.panel-default {
+      padding: 0; }
+
+.panel-heading a {
+      padding: 10px 15px;
+      display: block;
+      min-width: 15rem;
+      background-color: #transparent;
+      color: #2c98f0;
+      position: relative;
+      -webkit-box-shadow: none !important;
+      -moz-box-shadow: none !important;
+      -ms-box-shadow: none !important;
+      -o-box-shadow: none !important;
+      box-shadow: none !important; }
+
+.panel-heading a.collapsed {
+      background: #f2f3f7;
+      color: #333333; }
+
+.panel-body {
+      margin-top: 5px; }
